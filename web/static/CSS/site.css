@@ -1,0 +1,43 @@
+.borderOne{
+    border-style: solid;
+    border-width: 1px;
+    width: 25%;
+    padding: 25px;
+}
+.borderTwo{
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    border-style: solid;
+    border-width: 1px;
+    width: 90%;
+    padding: 25px;
+}
+.inputs{
+    margin-bottom: 10px;
+}
+.inputs2{
+    margin-bottom: 13.5px;
+}
+.formUpdate{
+    width: 18%;
+}
+.formUpdate2{
+    width: 13%;
+}
+.formHeader{
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+}
+.textInput{
+    width: 185px;
+}
+.selectInput{
+    width: 100px;
+}
+hr{
+    border-top: 1px solid black;
+    width: 100%;
+}
